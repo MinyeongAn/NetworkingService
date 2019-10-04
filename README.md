@@ -26,6 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ IIS Default 웹에서 이미지파일 변경 후 적용내역 확인 [그림 IIS 확인]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 다른 서버장비에서도 접속되는지 확인<br>
+![IIS](https://user-images.githubusercontent.com/49672285/66184380-d300eb80-e6b6-11e9-9ab8-5156c0164130.PNG)
 
 # 라우터 R2
   - Window Server2012에서 라우팅<br>
@@ -54,6 +55,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ /var/www/html/xe에 툴 설치<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ #chmod 707 xe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
+<div>
+![Linux Firewall](https://user-images.githubusercontent.com/49672285/66184389-da27f980-e6b6-11e9-8c22-2ebba4dd3bbd.PNG)
+![Linux Packages](https://user-images.githubusercontent.com/49672285/66184390-da27f980-e6b6-11e9-87f6-d2368758792d.PNG)
+</div>
 
 ### ==라우터 설정 (pkt)==
 Router>en<br>
