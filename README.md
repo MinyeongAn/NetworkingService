@@ -1,12 +1,12 @@
 # NetworkingService
 
-#라우터 R1
+라우터 R1
   - Window Server2012에서 라우팅<br>
   - 네트워크 어댑터 2개 사용<br>
   - rrasmgmt.msc에서 RIP 사용 인접라우터 등록<br>
   - 외부망 : 10.10.10.1/30<br>
   - 내부망 : 192.168.55.254/24<br>
-  - 그림 R1 rras 확인
+  - 그림 R1 rras 확인<br>
   DNS<br>
     - 운영체제 : Window Server 2012<br>
     - ip 주소<br>
@@ -15,18 +15,18 @@
 	→ DNS 서비스 제공<br>
 	→ 서버 IP들의 DNS주소를 192.168.55.10으로 설정<br>
 	→ 정방향에서 각 서버의 IP마다 도메인 네임 제공 [그림 DNS 확인]<br>
-	→ 각 도메인 네임의 동작 확인
+	→ 각 도메인 네임의 동작 확인<br>
 
   WEB<br>
     - 운영체제 : Window Server 2012<br>
-    - ip 주소<br>
-	: 192.168.55.20/24<br>
+    - ip 주소 : 192.168.55.20/24<br>
     - 작업내역<br>
 	→ IIS 서비스로 IIS 웹페이지 띄우는 것 확인<br>
 	→ IIS Default 웹에서 이미지파일 변경 후 적용내역 확인 [그림 IIS 확인]<br>
 	→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
 	→ 다른 서버장비에서도 접속되는지 확인
 <br><br>
+
 #라우터 R2
   - Window Server2012에서 라우팅<br>
   - 네트워크 어댑터 2개 사용<br>
