@@ -9,7 +9,7 @@
   ![R1 rras](https://user-images.githubusercontent.com/49672285/66183557-50772c80-e6b4-11e9-93ef-1ef183a7e6f4.PNG)<br><br>
 <br>
 
-# DNS
+### DNS
 <br>
 - 운영체제 : Window Server 2012<br>
 - ip 주소 : 192.168.55.10/24<br>
@@ -18,11 +18,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ 서버 IP들의 DNS주소를 192.168.55.10으로 설정<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 정방향에서 각 서버의 IP마다 도메인 네임 제공<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 각 도메인 네임의 동작 확인<br>
-- 참조이미지<br>
 ![DNS](https://user-images.githubusercontent.com/49672285/66184053-da73c500-e6b5-11e9-9ce3-e32f50a03c8c.PNG)<br><br>
 <br>
 
-# WEB
+### WEB
 <br>
 - 운영체제 : Window Server 2012<br>
 - ip 주소 : 192.168.55.20/24<br>
@@ -42,7 +41,7 @@
   ![R2 rras](https://user-images.githubusercontent.com/49672285/66183830-24a87680-e6b5-11e9-8aaa-3a0cfd08d099.PNG)<br><br>
 <br>
 
-# DB
+### DB
 <br>
 - 운영체제 : Linux CentOs 7<br>
 - ip 주소 : 192.168.77.10/24<br>
