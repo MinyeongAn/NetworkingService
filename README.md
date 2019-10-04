@@ -1,4 +1,6 @@
 # NetworkingService
+![네트워크 토폴로지](https://user-images.githubusercontent.com/49672285/66184446-080d3e00-e6b7-11e9-84dd-3d822cb7d156.PNG)
+
 
 # 라우터 R1
   - Window Server2012에서 라우팅<br>
