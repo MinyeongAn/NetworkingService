@@ -9,6 +9,7 @@
   - 그림 R1 rras 확인<br>
 <br>
 DNS
+<br>
   - 운영체제 : Window Server 2012<br>
   - ip 주소 : 192.168.55.10/24<br>
     - 작업내역<br>
@@ -18,6 +19,7 @@ DNS
 	→ 각 도메인 네임의 동작 확인<br>
 <br>
 WEB
+<br>
   - 운영체제 : Window Server 2012<br>
   - ip 주소 : 192.168.55.20/24<br>
   - 작업내역<br>
@@ -36,6 +38,7 @@ WEB
   - 그림 R2 rras 확인<br>
 <br>
 DB
+<br>
   - 운영체제 : Linux CentOs 7<br>
   - ip 주소 : 192.168.77.10/24<br>
     - 작업내역<br>
