@@ -8,6 +8,7 @@
   - 내부망 : 192.168.55.254/24<br>
   - 그림 R1 rras 확인<br>
 <br>
+
 # DNS
 <br>
   - 운영체제 : Window Server 2012<br>
@@ -18,6 +19,7 @@
 	→ 정방향에서 각 서버의 IP마다 도메인 네임 제공 [그림 DNS 확인]<br>
 	→ 각 도메인 네임의 동작 확인<br>
 <br>
+
 # WEB
 <br>
   - 운영체제 : Window Server 2012<br>
