@@ -62,6 +62,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ #chmod 707 xe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
 <br>
+<div>
+![Linux Firewall](https://user-images.githubusercontent.com/49672285/66183893-5c172300-e6b5-11e9-9198-6da9f786544f.PNG)
+![Linux Packages](https://user-images.githubusercontent.com/49672285/66183894-5c172300-e6b5-11e9-9798-29a0c6bfb939.PNG)
+</div>
+<br><br>
+
 
 # ==라우터 설정 (pkt)==<br>
 Router>en<br>
