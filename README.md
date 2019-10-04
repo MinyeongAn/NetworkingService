@@ -9,7 +9,6 @@
   ![R1 rras](https://user-images.githubusercontent.com/49672285/66183557-50772c80-e6b4-11e9-93ef-1ef183a7e6f4.PNG)<br>
 
 ### DNS
-<br>
 - 운영체제 : Window Server 2012<br>
 - ip 주소 : 192.168.55.10/24<br>
 - 작업내역<br>
@@ -19,7 +18,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ 각 도메인 네임의 동작 확인<br>
 
 ### WEB
-<br>
 - 운영체제 : Window Server 2012<br>
 - ip 주소 : 192.168.55.20/24<br>
 - 작업내역<br>
@@ -37,7 +35,6 @@
   ![R2 rras](https://user-images.githubusercontent.com/49672285/66183830-24a87680-e6b5-11e9-8aaa-3a0cfd08d099.PNG)<br>
 
 ### DB
-<br>
 - 운영체제 : Linux CentOs 7<br>
 - ip 주소 : 192.168.77.10/24<br>
 - 작업내역<br>
@@ -57,7 +54,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ #chmod 707 xe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
 
-### ==라우터 설정 (pkt)==<br>
+### ==라우터 설정 (pkt)==
 Router>en<br>
 Router#conf t<br>
 Router(config)#no ip domain lookup<br>
