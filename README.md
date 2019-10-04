@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ 서버 IP들의 DNS주소를 192.168.55.10으로 설정<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 정방향에서 각 서버의 IP마다 도메인 네임 제공<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 각 도메인 네임의 동작 확인<br>
-  ![DNS](https://user-images.githubusercontent.com/49672285/66183548-4a814b80-e6b4-11e9-9969-5e6b71292971.PNG)<br><br>
+<br>![DNS](https://user-images.githubusercontent.com/49672285/66183548-4a814b80-e6b4-11e9-9969-5e6b71292971.PNG)<br><br>
 <br>
 
 # WEB
@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ IIS Default 웹에서 이미지파일 변경 후 적용내역 확인 [그림 IIS 확인]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 다른 서버장비에서도 접속되는지 확인<br>
-![IIS](https://user-images.githubusercontent.com/49672285/66183549-4ce3a580-e6b4-11e9-9e90-db1eac806219.PNG)<br><br>
+<br>![IIS](https://user-images.githubusercontent.com/49672285/66183549-4ce3a580-e6b4-11e9-9e90-db1eac806219.PNG)<br><br>
 <br>
 
 # 라우터 R2
@@ -64,8 +64,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ #chmod 707 xe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
 <br>
-![Linux Firewall](https://user-images.githubusercontent.com/49672285/66183696-b2379680-e6b4-11e9-9ecc-dca78f031000.PNG)<br><br>
-![Linux Packages](https://user-images.githubusercontent.com/49672285/66183697-b2379680-e6b4-11e9-8872-b7b69e69b21a.PNG)<br><br>
+<br>![Linux Firewall](https://user-images.githubusercontent.com/49672285/66183696-b2379680-e6b4-11e9-9ecc-dca78f031000.PNG)<br><br>
+<br>![Linux Packages](https://user-images.githubusercontent.com/49672285/66183697-b2379680-e6b4-11e9-8872-b7b69e69b21a.PNG)<br><br>
 <br>
 # ==라우터 설정 (pkt)==<br>
 Router>en<br>
