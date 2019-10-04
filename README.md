@@ -18,6 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ 서버 IP들의 DNS주소를 192.168.55.10으로 설정<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 정방향에서 각 서버의 IP마다 도메인 네임 제공<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 각 도메인 네임의 동작 확인<br>
+![DNS](https://user-images.githubusercontent.com/49672285/66183853-37bb4680-e6b5-11e9-915c-c04543f5daab.PNG)<br><br>
 <br>
 
 # WEB
