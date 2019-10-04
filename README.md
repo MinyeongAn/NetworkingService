@@ -37,7 +37,7 @@
   - rrasmgmt.msc에서 RIP 사용 인접라우터 등록<br>
   - 외부망 : 10.10.10.2/30<br>
   - 내부망 : 192.168.77.254/24<br>
-  - 그림 R2 rras 확인<br>
+  ![R2 rras](https://user-images.githubusercontent.com/49672285/66183830-24a87680-e6b5-11e9-8aaa-3a0cfd08d099.PNG)<br><br>
 <br>
 
 # DB
