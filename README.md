@@ -14,10 +14,10 @@
 - 운영체제 : Window Server 2012<br>
 - ip 주소 : 192.168.55.10/24<br>
 - 작업내역<br>
-&nbsp;&nbsp;→ DNS 서비스 제공<br>
-&nbsp;&nbsp;→ 서버 IP들의 DNS주소를 192.168.55.10으로 설정<br>
-&nbsp;&nbsp;→ 정방향에서 각 서버의 IP마다 도메인 네임 제공 [그림 DNS 확인]<br>
-&nbsp;&nbsp;→ 각 도메인 네임의 동작 확인<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ DNS 서비스 제공<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 서버 IP들의 DNS주소를 192.168.55.10으로 설정<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 정방향에서 각 서버의 IP마다 도메인 네임 제공 [그림 DNS 확인]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 각 도메인 네임의 동작 확인<br>
 <br>
 
 # WEB
@@ -25,10 +25,10 @@
 - 운영체제 : Window Server 2012<br>
 - ip 주소 : 192.168.55.20/24<br>
 - 작업내역<br>
-&nbsp;&nbsp;→ IIS 서비스로 IIS 웹페이지 띄우는 것 확인<br>
-&nbsp;&nbsp;→ IIS Default 웹에서 이미지파일 변경 후 적용내역 확인 [그림 IIS 확인]<br>
-&nbsp;&nbsp;→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
-&nbsp;&nbsp;→ 다른 서버장비에서도 접속되는지 확인<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ IIS 서비스로 IIS 웹페이지 띄우는 것 확인<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ IIS Default 웹에서 이미지파일 변경 후 적용내역 확인 [그림 IIS 확인]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 다른 서버장비에서도 접속되는지 확인<br>
 <br>
 
 # 라우터 R2
@@ -45,21 +45,21 @@
 - 운영체제 : Linux CentOs 7<br>
 - ip 주소 : 192.168.77.10/24<br>
 - 작업내역<br>
-&nbsp;&nbsp;→ mariaDB 사용 방화벽에 3306포트와 mysql 서비스 등록<br>
-&nbsp;&nbsp;→ 테스트를 위한 Apache Web Server 사용<br>
-&nbsp;&nbsp;→ httpd 패키지, 방화벽 80번포트, httpd 서비스 등록<br>
-&nbsp;&nbsp;→ 편의를 위해 yum 사용, rpm 사용법 숙지완료<br>
-&nbsp;&nbsp;→ 그림 [Linux Firewall] 확인<br>
-&nbsp;&nbsp;→ /var/www/html/phpmyadmin에 위에 툴 설치<br>
-&nbsp;&nbsp;→ yum -y install --skip-broken php-*<br>
-&nbsp;&nbsp;→ /etc/httpd/conf/httpd.conf 165번줄<br>
-&nbsp;&nbsp;→ DirectoryIndex index.php index.html 수정<br>
-&nbsp;&nbsp;→ httpd 재실행<br>
-&nbsp;&nbsp;→ 그림 [Linux Packages] 확인<br>
-&nbsp;&nbsp;→ 제로보드 (https://www.xpressengine.com) 설치<br>
-&nbsp;&nbsp;→ /var/www/html/xe에 툴 설치<br>
-&nbsp;&nbsp;→ #chmod 707 xe<br>
-&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ mariaDB 사용 방화벽에 3306포트와 mysql 서비스 등록<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 테스트를 위한 Apache Web Server 사용<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ httpd 패키지, 방화벽 80번포트, httpd 서비스 등록<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 편의를 위해 yum 사용, rpm 사용법 숙지완료<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 그림 [Linux Firewall] 확인<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ /var/www/html/phpmyadmin에 위에 툴 설치<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ yum -y install --skip-broken php-*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ /etc/httpd/conf/httpd.conf 165번줄<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ DirectoryIndex index.php index.html 수정<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ httpd 재실행<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 그림 [Linux Packages] 확인<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 제로보드 (https://www.xpressengine.com) 설치<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ /var/www/html/xe에 툴 설치<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ #chmod 707 xe<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
 <br>
 
 # ==라우터 설정 (pkt)==<br>
