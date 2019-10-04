@@ -8,6 +8,7 @@
   - 내부망 : 192.168.55.254/24<br>
   ![R1 rras](https://user-images.githubusercontent.com/49672285/66183557-50772c80-e6b4-11e9-93ef-1ef183a7e6f4.PNG)<br><br>
 <br>
+
 # DNS
 <br>
 - 운영체제 : Window Server 2012<br>
@@ -18,6 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ 정방향에서 각 서버의 IP마다 도메인 네임 제공<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 각 도메인 네임의 동작 확인<br>
 <br>
+
 # WEB
 <br>
 - 운영체제 : Window Server 2012<br>
@@ -28,6 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 다른 서버장비에서도 접속되는지 확인<br>
 <br>
+
 # 라우터 R2
   - Window Server2012에서 라우팅<br>
   - 네트워크 어댑터 2개 사용<br>
@@ -36,6 +39,7 @@
   - 내부망 : 192.168.77.254/24<br>
   - 그림 R2 rras 확인<br>
 <br>
+
 # DB
 <br>
 - 운영체제 : Linux CentOs 7<br>
@@ -57,6 +61,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ #chmod 707 xe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
 <br>
+
 # ==라우터 설정 (pkt)==<br>
 Router>en<br>
 Router#conf t<br>
