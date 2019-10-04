@@ -26,8 +26,8 @@
 	→ IIS 서비스로 IIS 웹페이지 띄우는 것 확인<br>
 	→ IIS Default 웹에서 이미지파일 변경 후 적용내역 확인 [그림 IIS 확인]<br>
 	→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
-	→ 다른 서버장비에서도 접속되는지 확인
-<br><br>
+	→ 다른 서버장비에서도 접속되는지 확인<br>
+<br>
 
 # 라우터 R2
   - Window Server2012에서 라우팅<br>
@@ -37,6 +37,7 @@
   - 내부망 : 192.168.77.254/24<br>
   - 그림 R2 rras 확인<br>
 <br>
+
 # DB
 <br>
   - 운영체제 : Linux CentOs 7<br>
@@ -57,7 +58,7 @@
 	→ /var/www/html/xe에 툴 설치<br>
 	→ #chmod 707 xe<br>
 	→ 닉네임 아이디 administrator <br>
-<br><br>
+<br>
 
 # ==라우터 설정 (pkt)==<br>
 Router>en<br>
