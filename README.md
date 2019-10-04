@@ -55,10 +55,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ /var/www/html/xe에 툴 설치<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ #chmod 707 xe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
-<div>
 ![Linux Firewall](https://user-images.githubusercontent.com/49672285/66184389-da27f980-e6b6-11e9-8c22-2ebba4dd3bbd.PNG)
 ![Linux Packages](https://user-images.githubusercontent.com/49672285/66184390-da27f980-e6b6-11e9-87f6-d2368758792d.PNG)
-</div>
 
 ### ==라우터 설정 (pkt)==
 Router>en<br>
