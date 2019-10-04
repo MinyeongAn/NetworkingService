@@ -6,8 +6,7 @@
   - rrasmgmt.msc에서 RIP 사용 인접라우터 등록<br>
   - 외부망 : 10.10.10.1/30<br>
   - 내부망 : 192.168.55.254/24<br>
-  ![R1 rras](https://user-images.githubusercontent.com/49672285/66183557-50772c80-e6b4-11e9-93ef-1ef183a7e6f4.PNG)<br><br>
-<br>
+  ![R1 rras](https://user-images.githubusercontent.com/49672285/66183557-50772c80-e6b4-11e9-93ef-1ef183a7e6f4.PNG)<br>
 
 ### DNS
 <br>
@@ -18,8 +17,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ 서버 IP들의 DNS주소를 192.168.55.10으로 설정<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 정방향에서 각 서버의 IP마다 도메인 네임 제공<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 각 도메인 네임의 동작 확인<br>
-![DNS](https://user-images.githubusercontent.com/49672285/66184053-da73c500-e6b5-11e9-9ce3-e32f50a03c8c.PNG)<br><br>
-<br>
 
 ### WEB
 <br>
@@ -30,7 +27,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ IIS Default 웹에서 이미지파일 변경 후 적용내역 확인 [그림 IIS 확인]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 다른 서버장비에서도 접속되는지 확인<br>
-<br>
 
 # 라우터 R2
   - Window Server2012에서 라우팅<br>
@@ -38,8 +34,7 @@
   - rrasmgmt.msc에서 RIP 사용 인접라우터 등록<br>
   - 외부망 : 10.10.10.2/30<br>
   - 내부망 : 192.168.77.254/24<br>
-  ![R2 rras](https://user-images.githubusercontent.com/49672285/66183830-24a87680-e6b5-11e9-8aaa-3a0cfd08d099.PNG)<br><br>
-<br>
+  ![R2 rras](https://user-images.githubusercontent.com/49672285/66183830-24a87680-e6b5-11e9-8aaa-3a0cfd08d099.PNG)<br>
 
 ### DB
 <br>
@@ -61,9 +56,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ /var/www/html/xe에 툴 설치<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ #chmod 707 xe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;→ 닉네임 아이디 administrator <br>
-<br>
 
-# ==라우터 설정 (pkt)==<br>
+### ==라우터 설정 (pkt)==<br>
 Router>en<br>
 Router#conf t<br>
 Router(config)#no ip domain lookup<br>
