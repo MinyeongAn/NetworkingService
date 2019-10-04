@@ -26,8 +26,8 @@
 	→ IIS Default 웹에서 이미지파일 변경 후 적용내역 확인 [그림 IIS 확인]<br>
 	→ XE를 설치, DB서버에서 DB만 받아와서 테스트 진행<br>
 	→ 다른 서버장비에서도 접속되는지 확인
-<br>
-라우터 R2<br>
+<br><br>
+라우터 R2
   - Window Server2012에서 라우팅<br>
   - 네트워크 어댑터 2개 사용<br>
   - rrasmgmt.msc에서 RIP 사용 인접라우터 등록<br>
